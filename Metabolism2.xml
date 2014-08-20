@@ -1,0 +1,550 @@
+<Pathways species="homo sapiens">
+    <Pathway dbId="1430728" displayName="Metabolism">
+        <Pathway dbId="71387" displayName="Metabolism of carbohydrates">
+            <Pathway dbId="189085" displayName="Digestion of dietary carbohydrate">
+            </Pathway>
+            <Pathway dbId="189200" displayName="Hexose transport">
+                <Pathway dbId="70153" displayName="Glucose transport">
+                    <Pathway dbId="170822" displayName="Regulation of Glucokinase by Glucokinase Regulatory Protein">
+                    </Pathway>
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="70326" displayName="Glucose metabolism">
+                <Pathway dbId="70171" displayName="Glycolysis">
+                </Pathway>
+                <Pathway dbId="70263" displayName="Gluconeogenesis">
+                </Pathway>
+                <Pathway dbId="70302" displayName="Glycogen synthesis">
+                </Pathway>
+                <Pathway dbId="70221" displayName="Glycogen breakdown (glycogenolysis)">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="70350" displayName="Fructose catabolism">
+            </Pathway>
+            <Pathway dbId="70370" displayName="Galactose catabolism">
+            </Pathway>
+            <Pathway dbId="71336" displayName="Pentose phosphate pathway (hexose monophosphate shunt)">
+            </Pathway>
+            <Pathway dbId="73843" displayName="5-Phosphoribose 1-diphosphate biosynthesis">
+            </Pathway>
+            <Pathway dbId="1630316" displayName="Glycosaminoglycan metabolism">
+                <Pathway dbId="2142845" displayName="Hyaluronan metabolism">
+                    <Pathway dbId="2142850" displayName="Hyaluronan biosynthesis and export">
+                    </Pathway>
+                    <Pathway dbId="2160916" displayName="Hyaluronan uptake and degradation">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="1638074" displayName="Keratan sulfate/keratin metabolism">
+                    <Pathway dbId="2022854" displayName="Keratan sulfate biosynthesis">
+                    </Pathway>
+                    <Pathway dbId="2022857" displayName="Keratan sulfate degradation">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="1638091" displayName="Heparan sulfate/heparin (HS-GAG) metabolism">
+                    <Pathway dbId="1971475" displayName="A tetrasaccharide linker sequence is required for GAG synthesis">
+                    </Pathway>
+                    <Pathway dbId="2022928" displayName="HS-GAG biosynthesis">
+                    </Pathway>
+                    <Pathway dbId="2024096" displayName="HS-GAG degradation">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="1793185" displayName="Chondroitin sulfate/dermatan sulfate metabolism">
+                    <Pathway dbId="1971475" displayName="A tetrasaccharide linker sequence is required for GAG synthesis">
+                    </Pathway>
+                    <Pathway dbId="2022870" displayName="Chondroitin sulfate biosynthesis">
+                    </Pathway>
+                    <Pathway dbId="2022923" displayName="Dermatan sulfate biosynthesis">
+                    </Pathway>
+                    <Pathway dbId="2024101" displayName="CS/DS degradation">
+                    </Pathway>
+                </Pathway>
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="1483249" displayName="Inositol phosphate metabolism">
+            <Pathway dbId="1855204" displayName="Synthesis of IP3 and IP4 in the cytosol">
+            </Pathway>
+            <Pathway dbId="1855196" displayName="IP3 and IP4 transport between cytosol and nucleus">
+            </Pathway>
+            <Pathway dbId="1855191" displayName="Synthesis of IPs in the nucleus">
+            </Pathway>
+            <Pathway dbId="1855170" displayName="IPs transport between nucleus and cytosol">
+            </Pathway>
+            <Pathway dbId="1855167" displayName="Synthesis of pyrophosphates in the cytosol">
+            </Pathway>
+            <Pathway dbId="1855229" displayName="IP6 and IP7 transport between cytosol and nucleus">
+            </Pathway>
+            <Pathway dbId="1855184" displayName="IPs transport between cytosol and ER lumen">
+            </Pathway>
+            <Pathway dbId="1855231" displayName="Synthesis of IPs in the ER lumen">
+            </Pathway>
+            <Pathway dbId="1855215" displayName="IPs transport between ER lumen and cytosol">
+            </Pathway>
+            <Pathway dbId="1855156" displayName="IPs transport between ER lumen and nucleus">
+            </Pathway>
+            <Pathway dbId="1855192" displayName="IPs transport between nucleus and ER lumen">
+            </Pathway>
+            <Pathway dbId="1855183" displayName="Synthesis of IP2, IP, and Ins in the cytosol">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="556833" displayName="Metabolism of lipids and lipoproteins">
+            <Pathway dbId="73923" displayName="Lipid digestion, mobilization, and transport">
+                <Pathway dbId="192456" displayName="Digestion of dietary lipid">
+                </Pathway>
+                <Pathway dbId="265473" displayName="Trafficking of dietary sterols">
+                </Pathway>
+                <Pathway dbId="174824" displayName="Lipoprotein metabolism">
+                    <Pathway dbId="174800" displayName="Chylomicron-mediated lipid transport">
+                    </Pathway>
+                    <Pathway dbId="194223" displayName="HDL-mediated lipid transport">
+                    </Pathway>
+                    <Pathway dbId="171052" displayName="LDL-mediated lipid transport">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="163560" displayName="Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="535734" displayName="Fatty acid, triacylglycerol, and ketone body metabolism">
+                <Pathway dbId="75109" displayName="Triglyceride Biosynthesis">
+                    <Pathway dbId="75105" displayName="Fatty Acyl-CoA Biosynthesis">
+                        <Pathway dbId="75876" displayName="Synthesis of very long-chain fatty acyl-CoAs">
+                        </Pathway>
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="200425" displayName="Import of palmitoyl-CoA into the mitochondrial matrix">
+                </Pathway>
+                <Pathway dbId="77289" displayName="Mitochondrial Fatty Acid Beta-Oxidation">
+                    <Pathway dbId="77286" displayName="mitochondrial fatty acid beta-oxidation of saturated fatty acids">
+                        <Pathway dbId="77305" displayName="Beta oxidation of palmitoyl-CoA to myristoyl-CoA">
+                        </Pathway>
+                        <Pathway dbId="77285" displayName="Beta oxidation of myristoyl-CoA to lauroyl-CoA">
+                        </Pathway>
+                        <Pathway dbId="77310" displayName="Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA">
+                        </Pathway>
+                        <Pathway dbId="77346" displayName="Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA">
+                        </Pathway>
+                        <Pathway dbId="77348" displayName="Beta oxidation of octanoyl-CoA to hexanoyl-CoA">
+                        </Pathway>
+                        <Pathway dbId="77350" displayName="Beta oxidation of hexanoyl-CoA to butanoyl-CoA">
+                        </Pathway>
+                        <Pathway dbId="77352" displayName="Beta oxidation of butanoyl-CoA to acetyl-CoA">
+                        </Pathway>
+                    </Pathway>
+                    <Pathway dbId="77288" displayName="mitochondrial fatty acid beta-oxidation of unsaturated fatty acids">
+                    </Pathway>
+                    <Pathway dbId="71032" displayName="Propionyl-CoA catabolism">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="74182" displayName="Ketone body metabolism">
+                    <Pathway dbId="77111" displayName="Synthesis of Ketone Bodies">
+                    </Pathway>
+                    <Pathway dbId="77108" displayName="Utilization of Ketone Bodies">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="400206" displayName="Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)">
+                    <Pathway dbId="1989781" displayName="PPARA Activates Gene Expression">
+                    </Pathway>
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="390918" displayName="Peroxisomal lipid metabolism">
+                <Pathway dbId="389599" displayName="Alpha-oxidation of phytanate">
+                </Pathway>
+                <Pathway dbId="389887" displayName="Beta-oxidation of pristanoyl-CoA">
+                </Pathway>
+                <Pathway dbId="390247" displayName="Beta-oxidation of very long chain fatty acids">
+                </Pathway>
+                <Pathway dbId="75896" displayName="Plasmalogen biosynthesis">
+                </Pathway>
+                <Pathway dbId="389542" displayName="NADPH regeneration">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="191273" displayName="Cholesterol biosynthesis">
+            </Pathway>
+            <Pathway dbId="1655829" displayName="Regulation of Cholesterol Biosynthesis by SREBP (SREBF)">
+                <Pathway dbId="2426168" displayName="Activation of Gene Expression by SREBP (SREBF)">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="194068" displayName="Bile acid and bile salt metabolism">
+                <Pathway dbId="192105" displayName="Synthesis of bile acids and bile salts">
+                    <Pathway dbId="193368" displayName="Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol">
+                    </Pathway>
+                    <Pathway dbId="193775" displayName="Synthesis of bile acids and bile salts via 24-hydroxycholesterol">
+                    </Pathway>
+                    <Pathway dbId="193807" displayName="Synthesis of bile acids and bile salts via 27-hydroxycholesterol">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="159418" displayName="Recycling of bile acids and salts">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="196071" displayName="Metabolism of steroid hormones and vitamin D">
+                <Pathway dbId="196108" displayName="Pregnenolone biosynthesis">
+                </Pathway>
+                <Pathway dbId="194002" displayName="Glucocorticoid biosynthesis">
+                </Pathway>
+                <Pathway dbId="193993" displayName="Mineralocorticoid biosynthesis">
+                </Pathway>
+                <Pathway dbId="193048" displayName="Androgen biosynthesis">
+                </Pathway>
+                <Pathway dbId="193144" displayName="Estrogen biosynthesis">
+                </Pathway>
+                <Pathway dbId="196791" displayName="Vitamin D (calciferol) metabolism">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="1483257" displayName="Phospholipid metabolism">
+                <Pathway dbId="1483206" displayName="Glycerophospholipid biosynthesis">
+                    <Pathway dbId="1483166" displayName="Synthesis of PA">
+                    </Pathway>
+                    <Pathway dbId="1482883" displayName="Acyl chain remodeling of DAG and TAG">
+                    </Pathway>
+                    <Pathway dbId="1483213" displayName="Synthesis of PE">
+                    </Pathway>
+                    <Pathway dbId="1482839" displayName="Acyl chain remodelling of PE">
+                    </Pathway>
+                    <Pathway dbId="1483152" displayName="Hydrolysis of LPE">
+                    </Pathway>
+                    <Pathway dbId="1483191" displayName="Synthesis of PC">
+                    </Pathway>
+                    <Pathway dbId="1483196" displayName="PI and PC transport between ER and Golgi membranes">
+                    </Pathway>
+                    <Pathway dbId="1482788" displayName="Acyl chain remodelling of PC">
+                    </Pathway>
+                    <Pathway dbId="1483115" displayName="Hydrolysis of LPC">
+                    </Pathway>
+                    <Pathway dbId="1483101" displayName="Synthesis of PS">
+                    </Pathway>
+                    <Pathway dbId="1482801" displayName="Acyl chain remodelling of PS">
+                    </Pathway>
+                    <Pathway dbId="1483226" displayName="Synthesis of PI">
+                    </Pathway>
+                    <Pathway dbId="1482922" displayName="Acyl chain remodelling of PI">
+                    </Pathway>
+                    <Pathway dbId="1483148" displayName="Synthesis of PG">
+                    </Pathway>
+                    <Pathway dbId="1482925" displayName="Acyl chain remodelling of PG">
+                    </Pathway>
+                    <Pathway dbId="1483076" displayName="Synthesis of CL">
+                    </Pathway>
+                    <Pathway dbId="1482798" displayName="Acyl chain remodeling of CL">
+                    </Pathway>
+                    <Pathway dbId="1483171" displayName="Synthesis of BMP">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="1483255" displayName="PI Metabolism">
+                    <Pathway dbId="1483248" displayName="Synthesis of PIPs at the ER membrane">
+                    </Pathway>
+                    <Pathway dbId="1483196" displayName="PI and PC transport between ER and Golgi membranes">
+                    </Pathway>
+                    <Pathway dbId="1660514" displayName="Synthesis of PIPs at the Golgi membrane">
+                    </Pathway>
+                    <Pathway dbId="1660510" displayName="PIPs transport between Golgi and plasma membranes">
+                    </Pathway>
+                    <Pathway dbId="1660499" displayName="Synthesis of PIPs at the plasma membrane">
+                    </Pathway>
+                    <Pathway dbId="1660524" displayName="PIPs transport between plasma and early endosome membranes">
+                    </Pathway>
+                    <Pathway dbId="1660516" displayName="Synthesis of PIPs at the early endosome membrane">
+                    </Pathway>
+                    <Pathway dbId="1660537" displayName="PIPs transport between early endosome and Golgi membranes">
+                    </Pathway>
+                    <Pathway dbId="1660502" displayName="PIPs transport between early and late endosome membranes">
+                    </Pathway>
+                    <Pathway dbId="1660517" displayName="Synthesis of PIPs at the late endosome membrane">
+                    </Pathway>
+                    <Pathway dbId="1660508" displayName="PIPs transport between late endosome and Golgi membranes">
+                    </Pathway>
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="2046104" displayName="alpha-linolenic (omega3) and linoleic (omega6) acid metabolism">
+                <Pathway dbId="2046106" displayName="alpha-linolenic acid (ALA) metabolism">
+                </Pathway>
+                <Pathway dbId="2046105" displayName="Linoleic acid (LA) metabolism">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="2142753" displayName="Arachidonic acid metabolism">
+                <Pathway dbId="2162123" displayName="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)">
+                </Pathway>
+                <Pathway dbId="2142691" displayName="Synthesis of Leukotrienes (LT) and Eoxins (EX)">
+                </Pathway>
+                <Pathway dbId="2142688" displayName="Synthesis of 5-eicosatetraenoic acids">
+                </Pathway>
+                <Pathway dbId="2142770" displayName="Synthesis of 15-eicosatetraenoic acid derivatives">
+                </Pathway>
+                <Pathway dbId="2142712" displayName="Synthesis of 12-eicosatetraenoic acid derivatives">
+                </Pathway>
+                <Pathway dbId="2142700" displayName="Synthesis of Lipoxins (LX)">
+                </Pathway>
+                <Pathway dbId="2142696" displayName="Synthesis of Hepoxilins (HX) and Trioxilins (TrX)">
+                </Pathway>
+                <Pathway dbId="2142816" displayName="Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)">
+                </Pathway>
+                <Pathway dbId="2142670" displayName="Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="428157" displayName="Sphingolipid metabolism">
+                <Pathway dbId="1660661" displayName="Sphingolipid de novo biosynthesis">
+                </Pathway>
+                <Pathway dbId="1660662" displayName="Glycosphingolipid metabolism">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="2142789" displayName="Ubiquinol biosynthesis">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="163685" displayName="Integration of energy metabolism">
+            <Pathway dbId="422356" displayName="Regulation of Insulin Secretion">
+                <Pathway dbId="400042" displayName="Inhibition of Insulin Secretion by Adrenaline/Noradrenaline">
+                </Pathway>
+                <Pathway dbId="399997" displayName="Regulation of Insulin Secretion by Acetylcholine">
+                </Pathway>
+                <Pathway dbId="400451" displayName="Regulation of Insulin Secretion by Free Fatty Acids">
+                    <Pathway dbId="434316" displayName="Regulation of Insulin Secretion by Fatty Acids Bound to GPR40 (FFAR1)">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="381676" displayName="Regulation of Insulin Secretion by Glucagon-like Peptide-1">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="163359" displayName="Glucagon signaling in metabolic regulation">
+                <Pathway dbId="164378" displayName="PKA activation in glucagon signalling">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="163358" displayName="PKA-mediated phosphorylation of key metabolic factors">
+            </Pathway>
+            <Pathway dbId="163754" displayName="Insulin effects increased synthesis of Xylulose-5-Phosphate">
+            </Pathway>
+            <Pathway dbId="163680" displayName="AMPK inhibits chREBP transcriptional activation activity">
+            </Pathway>
+            <Pathway dbId="163767" displayName="PP2A-mediated dephosphorylation of key metabolic factors">
+            </Pathway>
+            <Pathway dbId="163765" displayName="ChREBP activates metabolic gene expression">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="202131" displayName="Metabolism of nitric oxide">
+            <Pathway dbId="203765" displayName="eNOS activation and regulation">
+                <Pathway dbId="203615" displayName="eNOS activation">
+                </Pathway>
+                <Pathway dbId="203754" displayName="NOSIP mediated eNOS trafficking">
+                </Pathway>
+                <Pathway dbId="203641" displayName="NOSTRIN mediated eNOS trafficking">
+                </Pathway>
+                <Pathway dbId="1474151" displayName="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation">
+                </Pathway>
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="1428517" displayName="The citric acid (TCA) cycle and respiratory electron transport">
+            <Pathway dbId="71406" displayName="Pyruvate metabolism and Citric Acid (TCA) cycle">
+                <Pathway dbId="70268" displayName="Pyruvate metabolism">
+                    <Pathway dbId="204174" displayName="Regulation of pyruvate dehydrogenase (PDH) complex">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="71403" displayName="Citric acid cycle (TCA cycle)">
+                </Pathway>
+                <Pathway dbId="880009" displayName="Interconversion of 2-oxoglutarate and 2-hydroxyglutarate">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="163200" displayName="Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.">
+                <Pathway dbId="611105" displayName="Respiratory electron transport">
+                </Pathway>
+                <Pathway dbId="163210" displayName="Formation of ATP by chemiosmotic coupling">
+                </Pathway>
+                <Pathway dbId="166187" displayName="Mitochondrial Uncoupling Proteins">
+                    <Pathway dbId="167826" displayName="The fatty acid cycling model">
+                    </Pathway>
+                    <Pathway dbId="167827" displayName="The proton buffering model">
+                    </Pathway>
+                </Pathway>
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="15869" displayName="Metabolism of nucleotides">
+            <Pathway dbId="73847" displayName="Purine metabolism">
+                <Pathway dbId="73817" displayName="Purine ribonucleoside monophosphate biosynthesis">
+                </Pathway>
+                <Pathway dbId="74217" displayName="Purine salvage">
+                </Pathway>
+                <Pathway dbId="74259" displayName="Purine catabolism">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="73848" displayName="Pyrimidine metabolism">
+                <Pathway dbId="500753" displayName="Pyrimidine biosynthesis">
+                </Pathway>
+                <Pathway dbId="73614" displayName="Pyrimidine salvage reactions">
+                </Pathway>
+                <Pathway dbId="73621" displayName="Pyrimidine catabolism">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="499943" displayName="Synthesis and interconversion of nucleotide di- and triphosphates">
+            </Pathway>
+            <Pathway dbId="2393930" displayName="Phosphate bond hydrolysis by NUDT proteins">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="196854" displayName="Metabolism of vitamins and cofactors">
+            <Pathway dbId="196849" displayName="Metabolism of water-soluble vitamins and cofactors">
+                <Pathway dbId="196836" displayName="Vitamin C (ascorbate) metabolism">
+                </Pathway>
+                <Pathway dbId="196819" displayName="Vitamin B1 (thiamin) metabolism">
+                </Pathway>
+                <Pathway dbId="196843" displayName="Vitamin B2 (riboflavin) metabolism">
+                </Pathway>
+                <Pathway dbId="199220" displayName="Vitamin B5 (pantothenate) metabolism">
+                    <Pathway dbId="196783" displayName="Coenzyme A biosynthesis">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="964975" displayName="Vitamins B6 activation to pyridoxal phosphate">
+                </Pathway>
+                <Pathway dbId="196780" displayName="Biotin transport and metabolism">
+                </Pathway>
+                <Pathway dbId="196807" displayName="Nicotinate metabolism">
+                    <Pathway dbId="197264" displayName="Nicotinamide salvaging">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="196757" displayName="Metabolism of folate and pterines">
+                </Pathway>
+                <Pathway dbId="947581" displayName="Molybdenum cofactor biosynthesis">
+                </Pathway>
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="71291" displayName="Metabolism of amino acids and derivatives">
+            <Pathway dbId="70614" displayName="Amino acid synthesis and interconversion (transamination)">
+                <Pathway dbId="977347" displayName="Serine biosynthesis">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="70895" displayName="Branched-chain amino acid catabolism">
+            </Pathway>
+            <Pathway dbId="70921" displayName="Histidine catabolism">
+            </Pathway>
+            <Pathway dbId="71064" displayName="Lysine catabolism">
+            </Pathway>
+            <Pathway dbId="71182" displayName="Phenylalanine and tyrosine catabolism">
+            </Pathway>
+            <Pathway dbId="70688" displayName="Proline catabolism">
+            </Pathway>
+            <Pathway dbId="71240" displayName="Tryptophan catabolism">
+            </Pathway>
+            <Pathway dbId="70635" displayName="Urea cycle">
+            </Pathway>
+            <Pathway dbId="71262" displayName="Carnitine synthesis">
+            </Pathway>
+            <Pathway dbId="71288" displayName="Creatine metabolism">
+            </Pathway>
+            <Pathway dbId="351202" displayName="Metabolism of polyamines">
+                <Pathway dbId="351143" displayName="Agmatine biosynthesis">
+                </Pathway>
+                <Pathway dbId="351200" displayName="Interconversion of polyamines">
+                </Pathway>
+                <Pathway dbId="1237112" displayName="Methionine salvage pathway">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="350562" displayName="Regulation of ornithine decarboxylase (ODC)">
+            </Pathway>
+            <Pathway dbId="209776" displayName="Amine-derived hormones">
+                <Pathway dbId="209905" displayName="Catecholamine biosynthesis">
+                </Pathway>
+                <Pathway dbId="209968" displayName="Thyroxine biosynthesis">
+                    <Pathway dbId="350864" displayName="Regulation of thyroid hormone activity">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="209931" displayName="Serotonin and melatonin biosynthesis">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="389661" displayName="Glyoxylate metabolism">
+            </Pathway>
+            <Pathway dbId="1614635" displayName="Sulfur amino acid metabolism">
+                <Pathway dbId="1237112" displayName="Methionine salvage pathway">
+                </Pathway>
+                <Pathway dbId="1614603" displayName="Cysteine formation from homocysteine">
+                </Pathway>
+                <Pathway dbId="1614558" displayName="Degradation of cysteine and homocysteine">
+                    <Pathway dbId="1614517" displayName="Sulfide oxidation to sulfate">
+                    </Pathway>
+                </Pathway>
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="189445" displayName="Metabolism of porphyrins">
+            <Pathway dbId="189451" displayName="Heme biosynthesis">
+            </Pathway>
+            <Pathway dbId="189483" displayName="Heme degradation">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="211859" displayName="Biological oxidations">
+            <Pathway dbId="211945" displayName="Phase 1 - Functionalization of compounds">
+                <Pathway dbId="211897" displayName="Cytochrome P450 - arranged by substrate type">
+                    <Pathway dbId="211976" displayName="Endogenous sterols">
+                        <Pathway dbId="211994" displayName="Sterols are 12-hydroxylated by CYP8B1">
+                        </Pathway>
+                    </Pathway>
+                    <Pathway dbId="211981" displayName="Xenobiotics">
+                        <Pathway dbId="211957" displayName="Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2">
+                        </Pathway>
+                        <Pathway dbId="211999" displayName="CYP2E1 reactions">
+                        </Pathway>
+                    </Pathway>
+                    <Pathway dbId="211935" displayName="Fatty acids">
+                    </Pathway>
+                    <Pathway dbId="211979" displayName="Eicosanoids">
+                    </Pathway>
+                    <Pathway dbId="211916" displayName="Vitamins">
+                    </Pathway>
+                    <Pathway dbId="211958" displayName="Miscellaneous substrates">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="217271" displayName="FMO oxidizes nucleophiles">
+                </Pathway>
+                <Pathway dbId="140180" displayName="COX reactions">
+                </Pathway>
+                <Pathway dbId="140179" displayName="Amine Oxidase reactions">
+                    <Pathway dbId="141333" displayName="Monoamines are oxidized to aldehydes by MAOA and MAOB, producing NH3 and H2O2">
+                    </Pathway>
+                    <Pathway dbId="141334" displayName="Polyamines are oxidized to amines, aldehydes and H2O2 by PAOs">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="71384" displayName="Ethanol oxidation">
+                </Pathway>
+            </Pathway>
+            <Pathway dbId="156580" displayName="Phase II conjugation">
+                <Pathway dbId="156588" displayName="Glucuronidation">
+                    <Pathway dbId="173599" displayName="Formation of the active cofactor, UDP-glucuronate">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="156584" displayName="Cytosolic sulfonation of small molecules">
+                    <Pathway dbId="174362" displayName="Formation of PAPS">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="156582" displayName="Acetylation">
+                </Pathway>
+                <Pathway dbId="156581" displayName="Methylation">
+                </Pathway>
+                <Pathway dbId="156590" displayName="Glutathione conjugation">
+                    <Pathway dbId="174403" displayName="Glutathione synthesis and recycling">
+                    </Pathway>
+                </Pathway>
+                <Pathway dbId="156587" displayName="Amino Acid conjugation">
+                    <Pathway dbId="159424" displayName="Conjugation of carboxylic acids">
+                        <Pathway dbId="177135" displayName="Conjugation of benzoate with glycine">
+                        </Pathway>
+                        <Pathway dbId="177162" displayName="Conjugation of phenylacetate with glutamine">
+                        </Pathway>
+                        <Pathway dbId="177128" displayName="Conjugation of salicylate with glycine">
+                        </Pathway>
+                    </Pathway>
+                </Pathway>
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="1362409" displayName="Mitochondrial Iron-Sulfur Cluster Biogenesis">
+            <Pathway dbId="2395516" displayName="Electron Transport from NADPH to Ferredoxin">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="1480926" displayName="O2/CO2 exchange in erythrocytes">
+            <Pathway dbId="1237044" displayName="Uptake of Carbon Dioxide and Release of Oxygen by Erythrocytes">
+            </Pathway>
+            <Pathway dbId="1247673" displayName="Uptake of Oxygen and Release of Carbon Dioxide by Erythrocytes">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="2161522" displayName="Abacavir transport and metabolism">
+            <Pathway dbId="2161517" displayName="Abacavir transmembrane transport">
+            </Pathway>
+            <Pathway dbId="2161541" displayName="Abacavir metabolism">
+            </Pathway>
+        </Pathway>
+        <Pathway dbId="1475029" displayName="Reversible Hydration of Carbon Dioxide">
+        </Pathway>
+        <Pathway dbId="2564830" displayName="Cytosolic Iron-sulfur Cluster Assembly">
+        </Pathway>
+    </Pathway>
+</Pathways>
